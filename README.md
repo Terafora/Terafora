@@ -6,4 +6,4 @@
 - 🤔 I’m not looking for help with anything at just this moment, but keep watching this space.
 - 📫 How to reach me: Charlie.stone649@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak English, Japanese, and some French
+- ⚡ Fun fact: I speak English, Japanese, as well as some French and Spanish
