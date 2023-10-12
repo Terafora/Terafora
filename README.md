@@ -1,9 +1,23 @@
-### 🟢 Open To Work 💻
+### 🟢Hello, I'm Charlotte Stone And I'm Open To Work 💻
 
-- 🔭 I’m currently working my way through the content laid out by Code Institute as well as various online courses.
-- 🌱 I’m currently focussing my learning on React in my spare time.
-- 👯 I’m looking to collaborate on pretty much anything as I'm always looking for further experience.
-- 🤔 I’m not looking for help with anything at just this moment, but keep watching this space.
-- 📫 How to reach me: Charlie.stone649@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak English and Japanese, as well as some French and Spanish
+## 👩‍🚀 Who Am I❓
+
+  - I'm a junior full-stack developer
+  - I'm currently studying with Code Institute
+  - I have 5 years experience as a software engineer in Central London
+  - I have 3 years experience as an English Teacher in Yaita-shi, Japan
+
+## 🔭 What Are My Interests❓
+
+  - I enjoy puzzles, problem solving and learning
+  - I'm interested in green energy and doing better by the planet
+  - Currently I'm interested in 3D modeling and looking to teach myself ThreeJS once I get more free time
+  - I enjoy learning languages and about other cultures
+
+## ⚡Other
+
+  - I’m looking to collaborate on pretty much anything as I'm always looking for further experience.
+  - I’m not looking for help with anything at just this moment, but keep watching this space.
+  - How to reach me: Charlie.stone649@gmail.com
+  - Pronouns: She/Her
+  - I speak English and Japanese, as well as some French and Spanish
