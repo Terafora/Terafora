@@ -1,4 +1,4 @@
-### Open To Work 💻
+### 🟢 Open To Work 💻
 
 - 🔭 I’m currently working my way through the content laid out by Code Institute as well as various online courses.
 - 🌱 I’m currently focussing my learning on React in my spare time.
