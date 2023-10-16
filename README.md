@@ -4,11 +4,13 @@
 
   - I'm a junior full-stack developer
   - I'm currently studying with Code Institute
+  - I love the idea of solar-punk so I aim to work in an environmentally consious company
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
 
 ## 🔭 What Are My Interests❓
 
+  - Green techonologies
   - I enjoy puzzles, problem solving and learning
   - I'm interested in green energy and doing better by the planet
   - Currently I'm interested in 3D modeling and looking to teach myself ThreeJS once I get more free time
