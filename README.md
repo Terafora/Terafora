@@ -14,7 +14,7 @@
   - I enjoy puzzles, problem solving and learning
   - I'm interested in green energy and doing better by the planet
   - Currently I'm interested in 3D modeling and looking to teach myself ThreeJS once I get more free time
-  - I'm also enjoy video games and I'm looking into learning Godot as an excuse to learn C#
+  - I also enjoy video games and I'm looking into learning Godot as an excuse to learn C#
   - I enjoy learning languages and about other cultures
 
 ## ⚡Other
