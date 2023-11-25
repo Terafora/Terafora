@@ -1,5 +1,7 @@
 ### 🟢Hello, I'm Charlotte Stone - A Full-Stack Web Developer - And I'm Open To Work 💻
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Terafora&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## 👩‍🚀 Who Am I❓
 
   - I'm a junior full-stack developer
