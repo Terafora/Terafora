@@ -5,7 +5,7 @@
   - I'm a junior full-stack developer
   - I'm currently studying with Code Institute
   - I'm currently remaking my portfolio site while working through my course
-  - I love the idea of solar-punk so I aim to work in an environmentally consious company
+  - I love the idea of solar-punk so I aim to work in an environmentally conscious company
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
 
