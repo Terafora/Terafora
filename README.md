@@ -2,7 +2,7 @@
 
 ## 👩‍🚀 Who Am I❓
 
-  - I'm a junior full-stack developer
+  - I'm a junior full-stack developer with an interest/enjoyment of web design
   - I'm currently studying with Code Institute
   - I'm currently remaking my portfolio site while working through my course
   - I love the idea of solar-punk so I aim to work in an environmentally conscious company
