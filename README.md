@@ -1,6 +1,6 @@
 <h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer - Web Designer🎨</h1>
 
-## 👩‍🚀 Who Am I❓
+## 👩‍🚀 Who Am I❓ 
 
   - I'm a junior full-stack developer with an interest/enjoyment of web design
   - I'm currently studying with Code Institute
