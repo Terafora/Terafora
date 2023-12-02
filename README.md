@@ -22,4 +22,4 @@
 
   - How to reach me: Charlie.stone649@gmail.com
   - Pronouns: She/Her
-  - I speak English and Japanese, as well as some French and Spanish
+  - I speak English and Japanese, as well as some French, Spanish and Brazilian Portuguese
