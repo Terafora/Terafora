@@ -23,3 +23,4 @@
   - How to reach me: Charlie.stone649@gmail.com
   - Pronouns: She/Her
   - I speak English and Japanese, as well as some French, Spanish and Brazilian Portuguese
+  - I'm currently focussing on learning the MERN stack (Currently studying NodeJS)
