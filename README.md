@@ -1,10 +1,10 @@
-<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer - Web Designer🎨</h1>
+<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻</h1>
 
 ## 👩‍🚀 Who Am I❓ 
 
   - I'm a junior full-stack developer with an interest/enjoyment of web design
-  - I'm currently studying with Code Institute
-  - I'm currently remaking my portfolio site while working through my course
+  - I'm currently learning the MERN stack and searching for work
+  - Purely for fun I'm learning C#, Unity and 3D modelling with Blender
   - I love the idea of solar-punk so I aim to work in an environmentally conscious company
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
@@ -13,6 +13,7 @@
 
 ## 🔭 What Are My Interests❓
 
+  - VR
   - Green techonologies
   - Mechatronics
 
@@ -22,5 +23,4 @@
 
   - How to reach me: Charlie.stone649@gmail.com
   - Pronouns: She/Her
-  - I speak English and Japanese, as well as some French, Spanish and Brazilian Portuguese
-  - I'm currently focussing on learning the MERN stack (Currently studying NodeJS)
+  - I speak English and Japanese, as well as some French, Spanish and Brazilian Portuguese (and I'm looking to learn more and connect with people all over the world)
