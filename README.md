@@ -3,7 +3,7 @@
 ## 👩‍🚀 Who Am I❓ 
 
   - I'm a Junior Full-Stack Developer with an interest/enjoyment of Web Design
-  - I'm currently learning C# and ASP.NET
+  - I'm currently learning C# and ASP.NET Core
   - Purely for fun I'm learning Unity and 3D modelling with Blender
   - I love the idea of solar-punk so I aim to work in an environmentally conscious company
   - I have 5 years experience as a software engineer in Central London
