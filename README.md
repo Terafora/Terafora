@@ -1,10 +1,10 @@
-<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻</h1>
+<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover💬</h1>
 
 ## 👩‍🚀 Who Am I❓ 
 
   - I'm a Junior Full-Stack Developer with an interest/enjoyment of Web Design
   - I'm currently looking to help other developers/engineers in their carreers by providing business/tech. English language lessons
-  - I love the idea of solar-punk so I aim to work in an environmentally conscious company
+  - I feel strongly about sharing and opening doors to education for people all over the world
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
 
@@ -12,9 +12,10 @@
 
 ## 🔭 What Are My Interests❓
 
-  - VR
-  - Green techonologies
-  - Mechatronics
+  - Education 🏫
+  - Languages 🌐
+  - VR 🥽
+  - Green techonologies 🍃
 
    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terafora&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -22,4 +23,15 @@
 
   - How to reach me: Charlie.stone649@gmail.com
   - Pronouns: She/Her
-  - I speak English and Japanese, as well as some French, Spanish and Brazilian Portuguese (and I'm looking to learn more and connect with people all over the world)
+  - I am I poly/hyperglot and speak:
+    - English
+    - Japanese
+    - French
+- As well as varying amounts of:
+  - Spanish
+  - Brazilian Portuguese
+  - German
+- I'm also slowly but surely learning:
+  - Arabic
+  - Russian
+  - Mandarin Chinese
