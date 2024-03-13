@@ -23,7 +23,7 @@
 
   - How to reach me: Charlie.stone649@gmail.com
   - Pronouns: She/Her
-  - I am I poly/hyperglot and speak:
+  - I am a poly/hyperglot and speak:
     - English
     - Japanese
     - French
