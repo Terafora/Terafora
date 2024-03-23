@@ -34,4 +34,4 @@
 - I'm also slowly but surely learning:
   - Arabic
   - Russian
-  - Mandarin Chinese
+  - Welsh
