@@ -1,10 +1,10 @@
-<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover💬</h1>
+<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover/Translator💬</h1>
 
 ## 👩‍🚀 Who Am I❓ 
 
   - I'm a Junior Full-Stack Developer with an interest/enjoyment of Web Design
   - I'm currently looking to help other developers/engineers in their carreers by providing business/tech. English language lessons
-  - I feel strongly about sharing and opening doors to education for people all over the world
+  - I feel strongly about sharing and opening doors to education for people all over the world, and I'm currently helping translate free tech education articles from English into Japanese
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
 
