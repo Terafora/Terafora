@@ -35,3 +35,5 @@
   - Arabic
   - Russian
   - Welsh
+
+<a href="https://app.daily.dev/terafora"><img src="https://api.daily.dev/devcards/v2/dB1ymhytdbfPXYQZOCSmx.png?type=default&r=nyd" width="356" alt="Charlotte Stone's Dev Card"/></a>
