@@ -1,6 +1,6 @@
 <h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover/Translator💬</h1>
 
-## 👩‍🚀 Who Am I❓ 
+## ![CharlotteSpriteWalkingToward](https://github.com/Terafora/Terafora/assets/144109245/3d4d63ff-3898-4ea3-92b7-c471140e5931) Who Am I❓ 
 
   - I'm a Junior Full-Stack Developer with an interest/enjoyment of Web Design
   - I'm currently looking to help other developers/engineers in their carreers by providing business/tech. English language lessons
