@@ -25,7 +25,7 @@
 
 ## Languages
 
-<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif">
+<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./TSIcon.gif"><img src="./PythonIcon.gif">
 
 ## ⚡Other
 
