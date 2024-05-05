@@ -1,4 +1,4 @@
-<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover/Translator💬<br>Currently Updating README</h1>
+<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover/Translator💬</h1>
 
 ## ![CharlotteSpriteWalkingToward](https://github.com/Terafora/Terafora/assets/144109245/3d4d63ff-3898-4ea3-92b7-c471140e5931) Who Am I  ![QuestionMark](https://github.com/Terafora/Terafora/assets/144109245/eaf57e79-e61f-4e04-bd37-3d8440ef5fa7)
 
@@ -25,7 +25,7 @@
 
 ## Languages
 
-<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./TSIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif">
+<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./TSIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif">
 
 ## ⚡Other
 
