@@ -44,3 +44,10 @@
   - Arabic
   - Russian
   - Welsh
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=terafora&theme=shadow_green&show_icons=true" alt="Terafora's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terafora&layout=compact" alt="Top Languages">
+</div>
+
+
