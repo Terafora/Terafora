@@ -1,6 +1,6 @@
 <h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover/Translator💬</h1>
 
-<h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./QuestionMark.gif"></h2>
+<h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
   - I'm a Junior Full-Stack Developer with an interest/enjoyment of Web Design
@@ -11,7 +11,7 @@
 
    <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Terafora&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=700)](https://git.io/streak-stats) -->
 
-<h2 align="center"><img src="./bouncinggu.gif"> What Are My Interests<img src="./QuestionMark.gif"></h2>
+<h2 align="center"><img src="./bouncinggu.gif"> What Are My Interests<img src="./GBQuestionMark.gif"></h2>
 
 
 
