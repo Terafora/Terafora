@@ -25,7 +25,7 @@
 
 <h2 align="center">Languages</h2>
 <div align="center">
-<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./TSIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon.gif">
+<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./TSIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon1.gif">
 </div>
 
 <h2 align="center">Other</h2>
