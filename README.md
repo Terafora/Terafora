@@ -23,7 +23,7 @@
 
    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terafora&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages & Technologies I Can Use</h2>
 <div align="center">
 <img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./TSIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon1.gif">
 </div>
