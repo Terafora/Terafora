@@ -32,7 +32,9 @@
     <li>jQuery</li>
     <li>React</li>
     <li>MongoDB</li>
+    <li>Mongoose</li>
     <li>Express</li>
+    <li>PhotoShop</li>
   </ul>
 </div>
 
