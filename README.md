@@ -3,7 +3,7 @@
 <h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
-  - I'm a Junior Full-Stack Developer with an interest/enjoyment of Web Design
+  - I'm a Full-Stack Developer with an interest/enjoyment of Web Design
   - I'm currently looking to help other developers/engineers in their careers by providing business/tech. English language lessons
   - I feel strongly about sharing and opening doors to education for people all over the world, and I'm currently helping translate free tech education articles from English into Japanese
   - I have 5 years experience as a software engineer in Central London
