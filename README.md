@@ -18,7 +18,7 @@
   - Languages 🌐
   - VR 🥽
   - Green technologies 🍃
-  - Pixel Art 
+  - Pixel Art <img src="./GBCharlotteSpriteSheet.gif">
 
    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terafora&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
