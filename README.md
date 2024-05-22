@@ -1,5 +1,4 @@
-<h1 align="center">🟣Hello, I'm Charlotte Stone🟡 <br>💻Full-Stack Web Developer💻<br>🌎Language Lover/Translator💬</h1>
-
+<img src="./LinkedInBanner.png" align="center">
 <h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
