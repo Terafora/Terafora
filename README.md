@@ -1,4 +1,4 @@
-<img src="./LinkedInBanner.png" align="center">
+<img src="./LinkedInBanner.png" align="center" style="border-radius: 10px;">
 <h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
