@@ -32,6 +32,7 @@
     <li>Mongoose</li>
     <li>Express</li>
     <li>PhotoShop</li>
+    <li>Aseprite</li>
   </ul>
 </div>
 
@@ -47,10 +48,6 @@
   - Spanish
   - Brazilian Portuguese
   - German
-- I'm also slowly but surely learning:
-  - Arabic
-  - Russian
-  - Welsh
 
 <h2 align="center">My Latest Translations</h2>
 
