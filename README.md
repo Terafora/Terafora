@@ -52,16 +52,24 @@
   - Russian
   - Welsh
 
+<h2 align="center">My Latest Translations</h2>
+
+<ul>
+  <li><a href="https://www.freecodecamp.org/japanese/news/how-to-update-node-and-npm-to-the-latest-version/"><b>Node と NPM を最新バージョンに更新する方法</b></a><br/><i>Learn how to update node and NPM to the latest version.</i></li>
+  <li><a href="https://www.freecodecamp.org/japanese/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/"><b>JSON Stringify の例 - JavaScript で JSON オブジェクトを解析する方法</b></a><br/><i>Learn how to parse a JSON object with JavaScript</i></li>
+  <li><a href="https://www.freecodecamp.org/japanese/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/"><b>Ubuntu で静的 IP を設定する方法 – Linux IP アドレスチュートリアル</b></a><br/><i>Set a static IP address on your Linux Ubuntu machine!</i></li>
+  <li><a href="https://www.freecodecamp.org/japanese/news/author/charlotte-stone/"><b>More</b></a><br/><i>Keep Up to date with the articles I translate.</i></li>
+</ul>
+
+<h2 align="center">Currently Working On:</h2>
+<li>Making a Full-Stack web app called Sekai Experience to further my understanding of full-stack development as well as learn some new tricks</li>
+<li>Translating an article on freeCodeCamp for deleting/removing files and directories through the command line on Linux</li>
+<li>Starting to work my way through NeetCode so that I can approach software development in a more logical manner with better tools by my side</li>
+<li>Creating pixel art icons for phones to sell on Etsy</li>
+
+<h2 align="center">Other</h2>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=terafora&theme=shadow_green&show_icons=true" alt="Terafora's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terafora&layout=compact" alt="Top Languages">
 </div>
-
-<h2 align="center">My Latest Translations</h2>
-
-<ul>
-  <li><a href="https://www.freecodecamp.org/japanese/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/"><b>JSON Stringify の例 - JavaScript で JSON オブジェクトを解析する方法</b></a><br/><i>Learn how to parse a JSON object with JavaScript</i></li>
-  <li><a href="https://www.freecodecamp.org/japanese/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/"><b>Ubuntu で静的 IP を設定する方法 – Linux IP アドレスチュートリアル</b></a><br/><i>Set a static IP address on your Linux Ubuntu machine!</i></li>
-  <li><a href="https://www.freecodecamp.org/japanese/news/php-explode-how-to-split-a-string-into-an-array/"><b>PHP の Explode – 文字列を配列に分割する方法</b></a><br/><i>Using the Explode function in PHP and how it differs from Implode.</i></li>
-  <li><a href="https://www.freecodecamp.org/japanese/news/author/charlotte-stone/"><b>More</b></a><br/><i>Keep Up to date with the articles I translate.</i></li>
-</ul>
