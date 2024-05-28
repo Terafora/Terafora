@@ -26,7 +26,8 @@
 <div align="center">
 <img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./jQuesryIcon.gif"><img src="./NodeJSIcon.gif"><img src="./TSIcon.gif"><img src="./BootStrapIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./LuaIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon1.gif">
 <p>Currently also know (but haven't made icons for):</p>
-  <ul align="left">
+</div>
+<ul align="left">
     <li>React</li>
     <li>MongoDB</li>
     <li>Mongoose</li>
@@ -34,7 +35,6 @@
     <li>PhotoShop</li>
     <li>Aseprite</li>
   </ul>
-</div>
 
 <h2 align="center">Other</h2>
 
