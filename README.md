@@ -60,7 +60,7 @@
 
 <h2 align="center">Currently Working On:</h2>
 <li>Making a Full-Stack web app called Sekai Experience to further my understanding of full-stack development as well as learn some new tricks</li>
-<li>Translating an article on freeCodeCamp for Bash scripting and using the command line for beginners on Linux/li>
+<li>Translating an article on freeCodeCamp for Bash scripting and using the command line for beginners on Linux</li>
 <li>Starting to work my way through NeetCode so that I can approach software development in a more logical manner with better tools by my side</li>
 <li>Creating pixel art icons for phones to sell on Etsy</li>
 
