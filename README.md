@@ -38,12 +38,12 @@
 
 <h2 align="center">Other</h2>
 
-  - How to reach me: Charlie.stone649@gmail.com
-  - Pronouns: She/Her
-  - I am a poly/hyperglot and speak:
-    - English
-    - Japanese
-    - French
+- How to reach me: Charlie.stone649@gmail.com
+- Pronouns: She/Her
+- I am a poly/hyperglot and speak:
+  - English
+  - Japanese
+  - French
 - As well as varying amounts of:
   - Spanish
   - Brazilian Portuguese
@@ -63,6 +63,7 @@
 <li>Translating an article on freeCodeCamp for Bash scripting and using the command line for beginners on Linux</li>
 <li>Starting to work my way through NeetCode so that I can approach software development in a more logical manner with better tools by my side</li>
 <li>Creating pixel art icons for phones to sell on Etsy</li>
+<li>Learning how to use Godot</li>
 
 <h2 align="center">Other</h2>
 
