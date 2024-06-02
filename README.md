@@ -31,7 +31,6 @@
     <li>React</li>
     <li>MongoDB</li>
     <li>Mongoose</li>
-    <li>Express</li>
     <li>PhotoShop</li>
     <li>Aseprite</li>
   </ul>
