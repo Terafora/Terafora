@@ -24,7 +24,7 @@
 
 <h2 align="center">Languages & Technologies I Can Use</h2>
 <div align="center">
-<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./jQuesryIcon.gif"><img src="./NodeJSIcon.gif"><img src="./TSIcon.gif"><img src="./BootStrapIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./LuaIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon1.gif">
+<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./jQuesryIcon.gif"><img src="./NodeJSIcon.gif"><img src="./ExpressIcon.gif"><img src="./BootStrapIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./LuaIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon1.gif">
 <p>Currently also know (but haven't made icons for):</p>
 </div>
 <ul align="left">
