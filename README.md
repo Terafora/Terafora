@@ -47,6 +47,8 @@
   - Spanish
   - Brazilian Portuguese
   - German
+-Currently learning:
+  - Welsh
 
 <h2 align="center">My Latest Translations</h2>
 
