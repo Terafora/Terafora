@@ -51,11 +51,10 @@
   - Welsh
 
 <h2 align="center">My Latest Translations</h2>
-
 <ul>
+  <li><a href="https://www.freecodecamp.org/japanese/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"><b>Bash スクリプトチュートリアル – 初心者向けの Linux シェルスクリプトとコマンドライン</b></a><br/><i>Learn the basics of Bash Scripting!</i></li>
   <li><a href="https://www.freecodecamp.org/japanese/news/how-to-update-node-and-npm-to-the-latest-version/"><b>Node と NPM を最新バージョンに更新する方法</b></a><br/><i>Learn how to update node and NPM to the latest version.</i></li>
   <li><a href="https://www.freecodecamp.org/japanese/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/"><b>JSON Stringify の例 - JavaScript で JSON オブジェクトを解析する方法</b></a><br/><i>Learn how to parse a JSON object with JavaScript</i></li>
-  <li><a href="https://www.freecodecamp.org/japanese/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/"><b>Ubuntu で静的 IP を設定する方法 – Linux IP アドレスチュートリアル</b></a><br/><i>Set a static IP address on your Linux Ubuntu machine!</i></li>
   <li><a href="https://www.freecodecamp.org/japanese/news/author/charlotte-stone/"><b>More</b></a><br/><i>Keep Up to date with the articles I translate.</i></li>
 </ul>
 
