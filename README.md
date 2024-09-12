@@ -8,6 +8,8 @@
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
 
+    **Currently Recovering From Surgery**
+
    <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Terafora&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=700)](https://git.io/streak-stats) -->
 
 <h2 align="center"><img src="./bouncinggu.gif"> What Are My Interests<img src="./GBQuestionMark.gif"></h2>
