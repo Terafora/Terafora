@@ -6,6 +6,7 @@
   - I feel strongly about sharing and opening doors to education for people all over the world, and I'm currently helping translate free tech education articles from English into Japanese
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
+  - I have 2+ years experience playing with web development for personal learning and projects.
 
     **Currently Recovering From Surgery And Learning C++** <img src="./pixeldasher2.gif">
 
