@@ -26,16 +26,27 @@
 
 <h2 align="center">Languages & Technologies I Can Use</h2>
 <div align="center">
-<img src="./HTMLIcon.gif"><img src="./CSSIcon.gif"><img src="./JSIcon.gif"><img src="./jQuesryIcon.gif"><img src="./NodeJSIcon.gif"><img src="./ExpressIcon.gif"><img src="./BootStrapIcon.gif"><img src="./PythonIcon.gif"><img src="./DjangoIcon.gif"><img src="./CSharpIcon.gif"><img src="./PHPIcon.gif"><img src="./LuaIcon.gif"><img src="./MySQLIcon.gif"><img src="./FigmaIcon1.gif">
-<p>Currently also know (but haven't made icons for):</p>
+  <img src="./portfolio icons/HTML.svg" width="80" height="80">
+  <img src="./portfolio icons/CSS.svg" width="80" height="80">
+  <img src="./portfolio icons/JavaScript.svg" width="80" height="80">
+  <img src="./portfolio icons/JQuery.svg" width="80" height="80">
+  <img src="./portfolio icons/React.svg" width="80" height="80">
+  <img src="./portfolio icons/NodeJS.svg" width="80" height="80">
+  <img src="./portfolio icons/Express.svg" width="80" height="80">
+  <img src="./portfolio icons/MongoDB.svg" width="80" height="80">
+  <img src="./portfolio icons/MySQL.svg" width="80" height="80">
+  <img src="./portfolio icons/PHP.svg" width="80" height="80">
+  <img src="./portfolio icons/Python.svg" width="80" height="80">
+  <img src="./portfolio icons/Django.svg" width="80" height="80">
+  <img src="./portfolio icons/C++.svg" width="80" height="80">
+  <img src="./portfolio icons/CSharp.svg" width="80" height="80">
+  <img src="./portfolio icons/PhotoShop.svg" width="80" height="80">
+  <img src="./portfolio icons/Illustrator.svg" width="80" height="80">
+  <img src="./portfolio icons/Figma.svg" width="80" height="80">
+  <img src="./portfolio icons/Aseprite.svg" width="80" height="80">
 </div>
-<ul align="left">
-    <li>React</li>
-    <li>MongoDB</li>
-    <li>Mongoose</li>
-    <li>PhotoShop</li>
-    <li>Aseprite</li>
-  </ul>
+
+
 
 <h2 align="center">Other</h2>
 
