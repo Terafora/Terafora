@@ -36,6 +36,7 @@
   <img src="./portfolio icons/MongoDB.svg" width="80" height="80">
   <img src="./portfolio icons/MySQL.svg" width="80" height="80">
   <img src="./portfolio icons/PHP.svg" width="80" height="80">
+  <img src="./portfolio icons/Bootstrap.svg" width="80" height="80">
   <img src="./portfolio icons/Python.svg" width="80" height="80">
   <img src="./portfolio icons/Django.svg" width="80" height="80">
   <img src="./portfolio icons/C++.svg" width="80" height="80">
