@@ -8,8 +8,6 @@
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
   - I have 2+ years experience playing with web development for personal learning and projects.
 
-    **Currently Recovering From Surgery And Learning C++** <img src="./pixeldasher2.gif">
-
    <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Terafora&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=700)](https://git.io/streak-stats) -->
 
 <h2 align="center"><img src="./bouncinggu.gif"> What Are My Interests<img src="./GBQuestionMark.gif"></h2>
@@ -72,12 +70,10 @@
   <li><a href="https://www.freecodecamp.org/japanese/news/author/charlotte-stone/"><b>More</b></a><br/><i>Keep Up to date with the articles I translate.</i></li>
 </ul>
 
-<h2 align="center">Currently Working On:</h2>
+<h2 align="center"><img src="./pixeldasher2.gif"> Currently Working On:</h2>
 <li>Making a Full-Stack web app called Sekai Experience to further my understanding of full-stack development as well as learn some new tricks</li>
-<li>Translating an article on freeCodeCamp for Bash scripting and using the command line for beginners on Linux</li>
-<li>Starting to work my way through NeetCode so that I can approach software development in a more logical manner with better tools by my side</li>
-<li>Creating pixel art icons for phones to sell on Etsy</li>
-<li>Learning how to use Godot</li>
+<li>Making a MERN stack blog to follow my journey for learning to create VR projects in Unreal Engine and to making a fully-realised game, "Project Exit Velocity"</li>
+<li>Looking for work </li>
 
 <h2 align="center">Other</h2>
 
