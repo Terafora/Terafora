@@ -71,8 +71,8 @@
 </ul>
 
 <h2 align="center"><img src="./pixeldasher2.gif"> Currently Working On:</h2>
-<li>Making a Full-Stack web app called Sekai Experience to further my understanding of full-stack development as well as learn some new tricks</li>
-<li>Making a MERN stack blog to follow my journey for learning to create VR projects in Unreal Engine and to making a fully-realised game, "Project Exit Velocity"</li>
+<li>Making a Full-Stack web app using Go called DocuDefense where users can setup an account and securely save PDF files for things such as contracts. I'm focussing on pushing myself to use new technologies in this project to improve my abilities as a developer.</li>
+<li>Making a MERN stack blog to follow my journey for learning to create VR projects in ThreeJS, WebVR, WebGL and Blender as well as my journey to making a fully-realised game, "Project Exit Velocity"</li>
 <li>Looking for work </li>
 
 <h2 align="center">Other</h2>
