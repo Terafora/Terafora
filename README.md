@@ -17,7 +17,6 @@
   - Education 🏫
   - Languages 🌐
   - VR 🥽
-  - Green technologies 🍃
   - Pixel Art <img src="./GBCharlotteSpriteSheet.gif">
 
    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terafora&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -60,7 +59,7 @@
   - Brazilian Portuguese
   - German
 
-<h2 align="center">My Latest Translations</h2>
+<h2 align="center">Sample of My Translation Works</h2>
 <ul>
   <li><a href="https://www.freecodecamp.org/japanese/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"><b>Bash スクリプトチュートリアル – 初心者向けの Linux シェルスクリプトとコマンドライン</b></a><br/><i>Learn the basics of Bash Scripting!</i></li>
   <li><a href="https://www.freecodecamp.org/japanese/news/how-to-update-node-and-npm-to-the-latest-version/"><b>Node と NPM を最新バージョンに更新する方法</b></a><br/><i>Learn how to update node and NPM to the latest version.</i></li>
@@ -69,9 +68,9 @@
 </ul>
 
 <h2 align="center"><img src="./pixeldasher2.gif"> Currently Working On:</h2>
-<li>Making a Full-Stack web app using Go called DocuDefense where users can setup an account and securely save PDF files for things such as contracts. I'm focussing on pushing myself to use new technologies in this project to improve my abilities as a developer.</li>
-<li>Making a MERN stack blog to follow my journey for learning to create VR projects in ThreeJS, WebVR, WebGL and Blender as well as my journey to making a fully-realised game, "Project Exit Velocity"</li>
-<li>Working as s full-time software developer</li>
+<li>Seeking new opportunities</li>
+<li>Making a MERN stack blog to follow my journey for learning to create VR projects in <strong>ThreeJS</strong>, <strong>WebXR</strong>, <strong>WebGL</strong> and <strong>Blender</strong> as well as my journey to making a fully-realised game, "Project Exit Velocity"</li>
+<li>Focussing on <strong>UI/UX</strong> and <strong>Product Design</strong></li>
 
 <h2 align="center">Other</h2>
 
