@@ -2,7 +2,8 @@
 <h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
-  - I'm a Full-Stack Developer with an interest/enjoyment of Web Design
+  - I'm trained as a full stack web developer.
+  - I'm currently learning Godot to make video games.
   - I feel strongly about sharing and opening doors to education for people all over the world, and I'm currently helping translate free tech education articles from English into Japanese
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
@@ -13,11 +14,11 @@
 <h2 align="center"><img src="./bouncinggu.gif"> What Are My Interests<img src="./GBQuestionMark.gif"></h2>
 
 
-
   - Education 🏫
   - Languages 🌐
   - VR 🥽
   - Pixel Art <img src="./GBCharlotteSpriteSheet.gif">
+  - Video Games 🎮
 
    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terafora&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
