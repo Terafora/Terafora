@@ -78,5 +78,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=terafora&theme=shadow_green&show_icons=true" alt="Terafora's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terafora&layout=compact" alt="Top Languages">
 </div>
-[![Live2D Character](https://raw.githubusercontent.com/terafora/terafora.github.io/main/live2d_preview.gif)](https://terafora.github.io/)
-
