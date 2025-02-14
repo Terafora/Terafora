@@ -71,7 +71,6 @@
 <h2 align="center"><img src="./pixeldasher2.gif"> Currently Working On:</h2>
 <li>Seeking new opportunities</li>
 <li>Making a MERN stack blog to follow my journey for learning to create VR projects in <strong>ThreeJS</strong>, <strong>WebXR</strong>, <strong>WebGL</strong> and <strong>Blender</strong> as well as my journey to making a fully-realised game, "Project Exit Velocity"</li>
-<li>Focussing on <strong>UI/UX</strong> and <strong>Product Design</strong></li>
 
 <h2 align="center">Other</h2>
 
@@ -79,4 +78,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=terafora&theme=shadow_green&show_icons=true" alt="Terafora's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terafora&layout=compact" alt="Top Languages">
 </div>
-[![Live2D Character](https://your-username.github.io/preview.png)](https://your-username.github.io/)
+[![Live2D Character](https://terafora.github.io/preview.png)](https://terafora.github.io/)
