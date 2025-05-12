@@ -27,6 +27,7 @@
   <img src="./portfolio icons/HTML.svg" width="80" height="80">
   <img src="./portfolio icons/CSS.svg" width="80" height="80">
   <img src="./portfolio icons/JavaScript.svg" width="80" height="80">
+  <img src="./portfolio icons/TS.svg" width="80" height="80">
   <img src="./portfolio icons/JQuery.svg" width="80" height="80">
   <img src="./portfolio icons/React.svg" width="80" height="80">
   <img src="./portfolio icons/NodeJS.svg" width="80" height="80">
