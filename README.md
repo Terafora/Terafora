@@ -3,7 +3,7 @@
 
 
   - I'm trained as a full stack web developer.
-  - I'm currently learning Godot to make video games.
+  - I'm currently rounding off my skillset with **TypeScript**, **Testing** and **CI/CD**.
   - I feel strongly about sharing and opening doors to education for people all over the world, and I'm currently helping translate free tech education articles from English into Japanese
   - I have 5 years experience as a software engineer in Central London
   - I have 3 years experience as an English Teacher in Yaita-shi, Japan
