@@ -24,26 +24,23 @@
 
 <h2 align="center">Languages & Technologies I Can Use</h2>
 <div align="center">
-  <img src="./portfolio icons/HTML.svg" width="80" height="80">
-  <img src="./portfolio icons/CSS.svg" width="80" height="80">
-  <img src="./portfolio icons/JavaScript.svg" width="80" height="80">
-  <img src="./portfolio icons/TS.svg" width="80" height="80">
-  <img src="./portfolio icons/JQuery.svg" width="80" height="80">
-  <img src="./portfolio icons/React.svg" width="80" height="80">
-  <img src="./portfolio icons/NodeJS.svg" width="80" height="80">
-  <img src="./portfolio icons/Express.svg" width="80" height="80">
-  <img src="./portfolio icons/MongoDB.svg" width="80" height="80">
-  <img src="./portfolio icons/MySQL.svg" width="80" height="80">
-  <img src="./portfolio icons/PHP.svg" width="80" height="80">
-  <img src="./portfolio icons/Bootstrap.svg" width="80" height="80">
-  <img src="./portfolio icons/Python.svg" width="80" height="80">
-  <img src="./portfolio icons/Django.svg" width="80" height="80">
-  <img src="./portfolio icons/C++.svg" width="80" height="80">
-  <img src="./portfolio icons/CSharp.svg" width="80" height="80">
-  <img src="./portfolio icons/PhotoShop.svg" width="80" height="80">
-  <img src="./portfolio icons/Illustrator.svg" width="80" height="80">
-  <img src="./portfolio icons/Figma.svg" width="80" height="80">
-  <img src="./portfolio icons/Aseprite.svg" width="80" height="80">
+  <img src="./icons/HTML.svg" width="80" height="80">
+  <img src="./icons/CSS.svg" width="80" height="80">
+  <img src="./icons/JavaScript.svg" width="80" height="80">
+  <img src="./icons/TS.svg" width="80" height="80">
+  <img src="./icons/JQuery.svg" width="80" height="80">
+  <img src="./icons/React.svg" width="80" height="80">
+  <img src="./icons/NodeJS.svg" width="80" height="80">
+  <img src="./icons/Express.svg" width="80" height="80">
+  <img src="./icons/MongoDB.svg" width="80" height="80">
+  <img src="./icons/MySQL.svg" width="80" height="80">
+  <img src="./icons/Bootstrap.svg" width="80" height="80">
+  <img src="./icons/Python.svg" width="80" height="80">
+  <img src="./icons/Django.svg" width="80" height="80">
+  <img src="./icons/PhotoShop.svg" width="80" height="80">
+  <img src="./icons/Illustrator.svg" width="80" height="80">
+  <img src="./icons/Figma.svg" width="80" height="80">
+  <img src="./icons/Aseprite.svg" width="80" height="80">
 </div>
 
 
