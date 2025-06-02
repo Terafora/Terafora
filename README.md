@@ -1,4 +1,4 @@
-<img src="./Github_banner.png" align="center" style="border-radius: 10px;">
+<img src="./linkedin_trans_pride_banner.png" align="center" style="border-radius: 10px;">
 <h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
