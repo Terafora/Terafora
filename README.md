@@ -2,7 +2,7 @@
 <h2 align="center"><img src="./CharlotteSpriteWalkingToward.gif"> Who Am I <img src="./GBQuestionMark.gif"></h2>
 
 
-  - I'm trained as a full stack web developer.
+  - I'm trained as a full stack web developer, but I personally love the front-end.
   - I'm currently rounding off my skillset with **TypeScript**, **Testing** and **CI/CD**.
   - I feel strongly about sharing and opening doors to education for people all over the world, and I'm currently helping translate free tech education articles from English into Japanese
   - I have 5 years experience as a software engineer in Central London
@@ -66,13 +66,9 @@
   <li><a href="https://www.freecodecamp.org/japanese/news/author/charlotte-stone/"><b>More</b></a><br/><i>Keep Up to date with the articles I translate.</i></li>
 </ul>
 
-<h2 align="center"><img src="./pixeldasher2.gif"> Currently Working On:</h2>
+<h2 align="center"><img src="./pixeldasher2.gif">What's ahead:</h2>
+<ul>
 <li>Seeking new opportunities</li>
-<li>Making a MERN stack blog to follow my journey for learning to create VR projects in <strong>ThreeJS</strong>, <strong>WebXR</strong>, <strong>WebGL</strong> and <strong>Blender</strong> as well as my journey to making a fully-realised game, "Project Exit Velocity"</li>
-
-<h2 align="center">Other</h2>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=terafora&theme=shadow_green&show_icons=true" alt="Terafora's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terafora&layout=compact" alt="Top Languages">
-</div>
+<li>Working on updating my Portfolio</li>
+<li>Learning Godot for my own video game projects</li>
+</ul>
