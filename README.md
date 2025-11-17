@@ -28,6 +28,7 @@
   <img src="./CSSIcon.gif">
   <img src="./JSIcon.gif">
   <img src="./TSIcon.gif">
+  <img src="./CSharpIcon.gif">
   <img src="./jQuesryIcon.gif">
   <img src="./NodeJSIcon.gif">
   <img src="./ExpressIcon.gif">
