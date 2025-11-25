@@ -34,7 +34,7 @@
   <img src="./ExpressIcon.gif">
   <img src="./MySQLIcon.gif">
   <img src="./PHPIcon.gif">
-  <img src="./BootstrapIcon.gif">
+  <img src="./BootStrapIcon.gif">
   <img src="./PythonIcon.gif">
   <img src="./DjangoIcon.gif">
   <img src="./FigmaIcon.gif">
